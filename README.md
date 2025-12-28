@@ -43,7 +43,7 @@ The system operates on a continuous feedback loop designed to balance speed with
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/interorganizationua-svg/blum-config.git](https://github.com/interorganizationua-svg/blum-config.git)
+    git clone [https://github.com/interorganizationua-svg/config.git](https://github.com/interorganizationua-svg/config.git)
     ```
 2.  Navigate to the directory:
     ```bash
