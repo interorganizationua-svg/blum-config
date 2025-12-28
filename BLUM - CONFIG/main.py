@@ -1,3 +1,0 @@
-import index
-
-index.main()
